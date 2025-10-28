@@ -61,16 +61,17 @@ end
 endmodule
 ```
  Developed by: Tejasree.K
- ```
+ 
  RegisterNumber: 212224240168
-```
+
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![Screenshot 2025-05-05 134814](https://github.com/user-attachments/assets/f3613930-2b13-4b63-aa1e-47d0a368fc97)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2025-05-05 140247](https://github.com/user-attachments/assets/b5730754-92b7-49f8-8229-7fd5d9eba366)
+<img width="1681" height="822" alt="image" src="https://github.com/user-attachments/assets/85630c6c-be09-4e37-8820-222aebef2f7a" />
+
 
 **RESULTS**
 
